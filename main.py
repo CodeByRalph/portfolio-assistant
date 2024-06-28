@@ -4,6 +4,7 @@ import json
 from pinecone import Pinecone, ServerlessSpec
 import openai
 from pprint import pprint
+from requests.exceptions import HTTPError
 
 load_dotenv()
 
@@ -43,4 +44,13 @@ def get_embedding(text):
 
     return response.data[0].embedding
 
-get_embedding('Hello World')
+# Testing Embedding Request
+# get_embedding('Hello World')
+
+# Getting Embedding for all text in text_data and upserting into Pinecone
+for text in text_data:
+    try:
+        embedding = get_embedding(text)
+        index.upsert([(text, embedding)])  # Upsert the embedding with the text as the ID
+    except Exception as e:
+        print(f"An error occurred: {e}")
