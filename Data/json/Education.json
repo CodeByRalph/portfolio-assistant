@@ -1,0 +1,21 @@
+{
+    "education": [
+      {
+        "institution": "Angelo State University",
+        "location": "San Angelo, TX",
+        "degree": "M.S. in Computer Science",
+        "expected_graduation": "Dec 2024",
+        "concentrations": ["Data Science", "Machine Learning"],
+        "coursework": ["Data Science", "Machine Learning", "Artificial Intelligence", "Deep Learning", "Statistics"]
+      },
+      {
+        "institution": "South Texas College",
+        "location": "McAllen, TX",
+        "degree": "B.A.T in Computer Information Technology",
+        "graduation_date": "Dec 2023",
+        "concentrations": ["Software Development", "Information Systems/Security"],
+        "coursework": ["Data Structures and Algorithms", "Software Security", "Web Development", "Database Management", "System Design", "Networking"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "professional_experiences": [
+      {
+        "job_title": "Line Cook",
+        "company": "BJ's Restaurant and Brewhouse",
+        "timeframe": "January 2023 - August 2023",
+        "responsibilities": [
+          "Prepared and cooked menu items in accordance with recipes and quality standards.",
+          "Maintained cleanliness and organization of the kitchen and workstations.",
+          "Collaborated with kitchen staff to ensure timely and efficient service.",
+          "Adhered to food safety and sanitation guidelines.",
+          "Assisted in inventory management and restocking of supplies."
+        ]
+      },
+      {
+        "job_title": "Cook/Shift Lead",
+        "company": "Panda Express",
+        "timeframe": "August 2023 - Current",
+        "responsibilities": [
+          "Oversaw kitchen operations and ensured high standards of food quality and presentation.",
+          "Supervised and trained new kitchen staff members.",
+          "Managed shift schedules and coordinated staff assignments.",
+          "Monitored inventory levels and placed orders for necessary supplies.",
+          "Maintained a clean and safe working environment, adhering to health and safety regulations."
+        ]
+      }
+    ]
+  }
+  

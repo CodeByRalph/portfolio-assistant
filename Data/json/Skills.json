@@ -1,0 +1,130 @@
+{
+    "skills": [
+      {
+        "name": "Python",
+        "category": "Programming Languages",
+        "description": "Experienced in Python for data analysis, web development, and scripting. Used extensively in machine learning projects."
+      },
+      {
+        "name": "Docker",
+        "category": "DevOps",
+        "description": "Knowledgeable in using Docker for containerization, ensuring consistent environments across different stages of development."
+      },
+      {
+        "name": "Next.js",
+        "category": "Web Development Frameworks",
+        "description": "Skilled in developing server-side rendered React applications with Next.js, improving performance and SEO."
+      },
+      {
+        "name": "NestJS",
+        "category": "Web Development Frameworks",
+        "description": "Experienced in building scalable and maintainable server-side applications with NestJS, leveraging Typescript."
+      },
+      {
+        "name": "Node.js",
+        "category": "Programming Languages",
+        "description": "Proficient in Node.js for building fast and scalable network applications, including RESTful APIs."
+      },
+      {
+        "name": "Machine Learning",
+        "category": "Data Science",
+        "description": "Experienced in building and deploying machine learning models using libraries like scikit-learn and TensorFlow."
+      },
+      {
+        "name": "Deep Learning",
+        "category": "Data Science",
+        "description": "Skilled in deep learning techniques, using frameworks like TensorFlow for complex model building."
+      },
+      {
+        "name": "MySQL",
+        "category": "Databases",
+        "description": "Proficient in using MySQL for relational database management, including complex queries and database design."
+      },
+      {
+        "name": "MongoDB",
+        "category": "Databases",
+        "description": "Experienced in using MongoDB for NoSQL database management, suitable for handling unstructured data."
+      },
+      {
+        "name": "Git",
+        "category": "Version Control",
+        "description": "Proficient in using Git for version control, ensuring efficient collaboration and code management."
+      },
+      {
+        "name": "REST API",
+        "category": "Web Development",
+        "description": "Experienced in designing and implementing RESTful APIs for web services, ensuring robust and scalable communication."
+      },
+      {
+        "name": "Tailwind CSS",
+        "category": "Web Development",
+        "description": "Skilled in using Tailwind CSS for utility-first CSS framework, creating responsive and modern web designs."
+      },
+      {
+        "name": "Linux",
+        "category": "Operating Systems",
+        "description": "Proficient in using Linux for development and server management, with experience in shell scripting and system administration."
+      },
+      {
+        "name": "Windows",
+        "category": "Operating Systems",
+        "description": "Experienced in using Windows for development and daily tasks, familiar with various tools and environments."
+      },
+      {
+        "name": "macOS",
+        "category": "Operating Systems",
+        "description": "Proficient in using macOS for development, leveraging Unix-based environment for efficient workflows."
+      },
+      {
+        "name": "React Native",
+        "category": "Mobile Development",
+        "description": "Skilled in developing cross-platform mobile applications using React Native, ensuring a native look and feel."
+      },
+      {
+        "name": "Responsive Web Design",
+        "category": "Web Development",
+        "description": "Experienced in creating responsive web designs that work seamlessly across different devices and screen sizes."
+      },
+      {
+        "name": "HTML",
+        "category": "Web Development",
+        "description": "Proficient in HTML for structuring web content, ensuring semantic and accessible web pages."
+      },
+      {
+        "name": "Large Language Models",
+        "category": "Artificial Intelligence",
+        "description": "Experienced in working with large language models like GPT-3 and Llama3 for natural language processing tasks."
+      },
+      {
+        "name": "Networking",
+        "category": "Information Technology",
+        "description": "Knowledgeable in networking concepts and protocols, ensuring secure and efficient communication between systems."
+      },
+      {
+        "name": "Figma",
+        "category": "Design Tools",
+        "description": "Skilled in using Figma for UI/UX design, creating interactive prototypes and design systems."
+      },
+      {
+        "name": "Data Science",
+        "category": "Data Science",
+        "description": "Experienced in data science techniques, including data analysis, visualization, and statistical modeling."
+      },
+      {
+        "name": "UI/UX",
+        "category": "Design",
+        "description": "Proficient in UI/UX design principles, ensuring user-centric and visually appealing interfaces."
+      },
+      {
+        "name": "Redis",
+        "category": "Databases",
+        "description": "Experienced in using Redis for in-memory data storage, optimizing performance for caching and real-time applications."
+      },
+      {
+        "name": "Prisma",
+        "category": "Web Development",
+        "description": "Skilled in using Prisma as an ORM for Node.js, ensuring efficient database management and queries."
+      }
+    ]
+  }
+  

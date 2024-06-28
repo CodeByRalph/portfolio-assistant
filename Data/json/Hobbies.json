@@ -1,0 +1,29 @@
+{
+    "hobbies": [
+      {
+        "hobby": "Coffee",
+        "description": "I have a deep appreciation for coffee, enjoying the process of brewing different types of coffee and exploring various brewing methods. I also like visiting local coffee shops to try new flavors and learn about coffee culture."
+      },
+      {
+        "hobby": "Running/Working Out",
+        "description": "I am passionate about maintaining a healthy lifestyle through regular running and working out. I enjoy setting fitness goals, participating in local races, and exploring new workout routines to challenge myself physically."
+      },
+      {
+        "hobby": "Reading",
+        "description": "I am an avid reader with a broad interest in various genres, including fiction, non-fiction, and technical literature. I enjoy immersing myself in different worlds and gaining new perspectives through books."
+      },
+      {
+        "hobby": "Mechanical Keyboards",
+        "description": "I have a fascination with mechanical keyboards, enjoying the process of customizing and building them. I appreciate the tactile feedback and unique typing experience they offer, and I often participate in online communities to share knowledge and ideas."
+      },
+      {
+        "hobby": "Learning New Languages",
+        "description": "I am enthusiastic about learning new languages, enjoying the challenge of understanding different linguistic structures and cultures. This hobby enhances my communication skills and broadens my global perspective."
+      },
+      {
+        "hobby": "Equities and Derivatives Trading",
+        "description": "I have a strong interest in equities and derivatives trading, including stock options, futures, and forex. I enjoy analyzing market trends, developing trading strategies, and staying updated with financial news to make informed investment decisions."
+      }
+    ]
+  }
+  

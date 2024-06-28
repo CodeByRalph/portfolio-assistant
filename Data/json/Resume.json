@@ -1,0 +1,80 @@
+{
+    "personal_info": {
+      "name": "Ralph A. Stout",
+      "email": "Ralph.stout14@icloud.com",
+      "phone": "(571) 991-1291",
+      "linkedin": "http://www.linkedin.com/in/ralphstout",
+      "github": "https://github.com/CodeByRalph"
+    },
+    "education": [
+      {
+        "institution": "Angelo State University",
+        "location": "San Angelo, TX",
+        "degree": "M.S. in Computer Science",
+        "expected_graduation": "Dec 2024",
+        "concentrations": ["Data Science", "Machine Learning"],
+        "coursework": ["Data Science", "Machine Learning", "Artificial Intelligence", "Deep Learning", "Statistics"]
+      },
+      {
+        "institution": "South Texas College",
+        "location": "McAllen, TX",
+        "degree": "B.A.T in Computer Information Technology",
+        "graduation_date": "Dec 2023",
+        "concentrations": ["Software Development", "Information Systems/Security"],
+        "coursework": ["Data Structures and Algorithms", "Software Security", "Web Development", "Database Management", "System Design", "Networking"]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Barrios",
+        "location": "Corpus Christi, TX",
+        "title": "Team Member",
+        "duration": "Mar 2024 – May 2024",
+        "responsibilities": [
+          "Leveraged supervised learning techniques, including K-nearest Neighbors (KNN) regression, to predict consumables usage with remarkable accuracy, achieving a mean squared error (MSE) of 0 and an R-squared score (R2) of 1 on test data.",
+          "Applied unsupervised learning methodologies such as K-means clustering and hierarchical clustering to uncover hidden patterns in unlabeled data, providing valuable insights into consumables usage patterns and optimizing inventory management strategies.",
+          "Demonstrated strong data analysis and visualization skills by effectively communicating results through visual representations such as scatter plots and dendrograms, facilitating data-driven decision-making for future consumption predictions and resource planning."
+        ],
+        "project_link": "https://github.com/CodeByRalph/ISS_Consumable_Usage"
+      },
+      {
+        "company": "Panda Express",
+        "location": "Corpus Christi, TX",
+        "title": "Cook / Shift Lead",
+        "duration": "Aug 2023 – Current",
+        "responsibilities": [
+          "Oversees daily operation, ensures service and food quality, implements health and safety standards, monitor inventory and ordering supplies.",
+          "Handles customers concerns and feedback, and mentors new employees."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "UCKG",
+        "location": "Corpus Christi, TX",
+        "role": "Researcher",
+        "duration": "May 2024 - Current",
+        "responsibilities": [
+          "Investigating UCKG's potential integration within intelligent cyber operations framework to enhance data analysis, threat detection, and response strategies.",
+          "Exploring how UCKG methodologies can be adapted to optimize cyber threat intelligence gathering, leveraging its principles for real-time risk assessment and mitigation.",
+          "Assessing the feasibility of incorporating UCKG principles into automated decision-making processes within cyber defense systems, aiming to enhance adaptability and resilience against evolving threats."
+        ]
+      },
+      {
+        "title": "Stock Predictor",
+        "location": "Corpus Christi, TX",
+        "role": "Sole Developer",
+        "duration": "Feb 2024",
+        "responsibilities": [
+          "Trained mathematical models to predict stock price trends using Naive Bayes, Neural Networks, and Linear Regression Time Series algorithms.",
+          "Scripted the predictive stock price model and obtained a prediction accuracy of 90.07%."
+        ],
+        "project_link": "https://github.com/CodeByRalph/Stock_Prediction"
+      }
+    ],
+    "skills": {
+      "programming_languages": ["Python", "JavaScript", "HTML/CSS", "SQL", "MongoDB", "Node.js", "React.js", "C++"],
+      "tools": ["Jupyter Notebooks", "Git", "AWS", "REST API"]
+    }
+  }
+  

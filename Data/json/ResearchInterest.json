@@ -1,0 +1,29 @@
+{
+    "research_interests": [
+      {
+        "topic": "Quantitative Trading/Finance",
+        "description": "I want to research the development and implementation of algorithmic trading strategies using quantitative analysis. This includes studying financial models, risk management techniques, and the use of machine learning to predict market trends and optimize trading decisions."
+      },
+      {
+        "topic": "Robotics with AI",
+        "description": "My research interests in this area focus on the integration of artificial intelligence with robotics to enhance automation and decision-making processes. This involves exploring machine learning algorithms for robot perception, navigation, and manipulation, as well as human-robot interaction and collaborative robotics."
+      },
+      {
+        "topic": "Genetic Algorithms",
+        "description": "I aim to investigate the application of genetic algorithms for solving complex optimization problems. This includes studying their effectiveness in various domains such as machine learning, scheduling, and design optimization, as well as improving their performance through hybridization with other evolutionary algorithms."
+      },
+      {
+        "topic": "Quantum Computing",
+        "description": "My research in quantum computing focuses on exploring quantum algorithms and their potential to solve problems that are intractable for classical computers. This includes studying quantum error correction, quantum cryptography, and the application of quantum computing in fields such as material science, cryptography, and artificial intelligence."
+      },
+      {
+        "topic": "NLP/LLM",
+        "description": "I want to research advancements in natural language processing (NLP) and large language models (LLMs). This involves exploring techniques for improving language understanding, generation, and translation, as well as applications in information retrieval, sentiment analysis, and conversational AI."
+      },
+      {
+        "topic": "Generative AI",
+        "description": "My interests in generative AI include studying models and techniques for generating high-quality synthetic data, images, and text. This encompasses researching generative adversarial networks (GANs), variational autoencoders (VAEs), and their applications in creative fields such as art, music, and content creation."
+      }
+    ]
+  }
+  
